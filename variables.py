@@ -26,3 +26,19 @@ print(number3)
 
 MrPanIsGoodMood = True
 #boolean^
+
+x= 6
+x = 2 * x
+x = x * 30
+y = 2 * x
+
+x = x**y
+x = x**0.5
+
+
+greeting = "hello"
+greeting = greeting + " Pan"
+
+isRainingOutSide = False
+isCadetOutSide = False
+doesCadetNeedUnbrella = isRainingOutSide and isCadetOutSide
