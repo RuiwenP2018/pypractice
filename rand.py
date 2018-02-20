@@ -1,6 +1,6 @@
 import random
 
-x = random.randit (1,10)
+x = random.randint (1,10)
 
 print (x)
 

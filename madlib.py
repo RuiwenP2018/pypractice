@@ -23,6 +23,6 @@ adjective = raw_input ("pleace enter a adjective. ")
 
 noun = raw_input ("pleace enter a noun. (is the person she/he)")
 
-adjusted = secondstory.format(name, verb, adjective, noun)
+adjusted = story.format(name, verb, adjective, noun)
 
 print (adjested)

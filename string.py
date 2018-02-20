@@ -60,6 +60,8 @@ skip = s[1::2]
 
 revers = s[0::-1]
 
+print (revers)
+
 print (skip)
 
 value = s[:len(s)/2:-1]
